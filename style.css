@@ -42,7 +42,13 @@
     margin: 5%;
 }
 .photos2{
+    justify-content: right;
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px 10px;
     display: flex;
+
+    
 }
 .main{
     background-position: center;
@@ -86,7 +92,7 @@
 .navigations ul li{
     list-style-type: none;
     justify-content: right;
-    padding: 0px 15px 0px;
+    padding: 100px 120px 100px;
     display: inline-block;
 }
 .dream{
@@ -96,8 +102,9 @@
 .classic ul li{
     list-style-type: none;
     justify-content: right;
-    padding:10px 20px 10px;
+    padding:40px 60px 40px;
     display: inline-block;
+    display: contents;
 
 
 }
@@ -111,4 +118,21 @@
 }
 .winfrida{
     background-color: #002d3d;
+}
+.circle{
+    width: 400px;
+    height: 350px;
+    border-radius: 100%;
+    border: solid #ffffff;
+    text-align: center;
+    
+    background-color: bisque;
+    margin: 40px;
+    padding: 45px;
+}
+.cozy ul li{
+    list-style-type: none;
+    display: inline;
+    justify-content: right;
+    padding: 0px 20px 0px;
 }
