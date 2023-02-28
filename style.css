@@ -1,0 +1,114 @@
+.photos{
+    display: flex;
+    list-style-type: none;
+    justify-content: right;
+    display: inline-block;
+    padding: 10px 20px 10px;
+}
+.photo1{
+    width: 250px;
+    height: 250px;
+    margin: 5%;
+}
+.photo2{
+    width: 250px;
+    height: 250px;
+    margin: 5%;
+}
+.photo3{
+    width: 250px;
+    height: 250px;
+    margin: 5%;
+}
+.photos2{
+    list-style-type: none;
+    justify-content: right;
+    padding: 10px 20px 10px;
+    display: inline-block;
+}
+.a{
+    width: 250px;
+    height:250px;
+    margin: 5%;
+}
+.b{
+    width: 250px;
+    height: 250px;
+    margin: 5%;
+}
+.c{
+    width: 250px;
+    height:250px;
+    margin: 5%;
+}
+.photos2{
+    display: flex;
+}
+.main{
+    background-position: center;
+    background-size: cover;
+    background-image: url(/homesit.jpeg);
+    width: 100%;
+    height: 100vh;
+}
+.navigations ul li{
+    justify-content: right;
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px 10px;
+}
+.navigation{
+    margin-right: ;
+}
+.popular{
+    background-color: navy;
+}
+.photos{
+    justify-content: right;
+    list-style-type: none;
+    display: inline-block;
+    padding: 20px 100px 20px;
+    display: flex;
+}
+.plants
+{
+    float: right;
+    width: 250px;
+    height: 250px;
+    margin-left: 10%;
+    margin-right: 60px;
+    
+}
+.tips{
+    background-color: #ffe5d6;
+    padding: 50px;
+}
+.navigations ul li{
+    list-style-type: none;
+    justify-content: right;
+    padding: 0px 15px 0px;
+    display: inline-block;
+}
+.dream{
+    text-align: center;
+   
+}
+.classic ul li{
+    list-style-type: none;
+    justify-content: right;
+    padding:10px 20px 10px;
+    display: inline-block;
+
+
+}
+.winfrida
+{
+    display: flex;
+    justify-content: space-between;
+}
+.latest{
+    text-align: center;
+}
+.winfrida{
+    background-color: #002d3d;
+}
